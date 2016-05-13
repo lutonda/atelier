@@ -1,0 +1,26 @@
+.main{
+	margin: 15px auto;
+	margin-bottom:-60px;
+	max-width:600px;
+	background:#FFF;
+	border:solid 1px #ccc;
+	position: relative;
+	z-index:99;
+	padding:2px;
+	border-radius:3px;
+	box-shadow:0 0 5px rgba(0,0,0,.3)
+}
+.serch form input{
+	width:100%;
+	border:none;
+	background:none;
+	padding:10px;
+}
+.serch form button{
+	margin:0;
+	width:60px;
+	margin-left:-60px;
+	padding:9.5px;
+	position:absolute;
+	border:none;
+}
